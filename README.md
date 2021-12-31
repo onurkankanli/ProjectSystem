@@ -11,4 +11,4 @@ Car must follow the white line (20mm),
 Car must stop at the end of the track,
 Car must avoid obstacles,
 Car must find the white line,
-Car must have a body (3D printed separate parts),
+Car must have a body (3D printed separate parts)
